@@ -25,8 +25,8 @@ Evaluate the model with test accuracy, confusion matrix, classification report, 
 
 ## PROGRAM
 
-### Name: Narendran K
-### Register Number: 212223230135
+### Name: Delli Priya L
+### Register Number: 212222230029
 
 ```python
 import torch as t
